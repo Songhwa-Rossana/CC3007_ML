@@ -1,2 +1,8 @@
 # CC3007_ML
 all lab reports/assignments of CC3007 Machine Learning at SEIG
+
+in this repository, I merely share the answers to either assignments or labs, no more details supply
+
+if possible, please get in touch with me via e-mail: rossana1997a@gmail.com
+
+Thanks for spending time reading all.
