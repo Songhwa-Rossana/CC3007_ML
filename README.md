@@ -1,5 +1,5 @@
 # CC3007_ML
-all lab reports/assignments of CC3007 Machine Learning at SEIG
+all lab reports/assignments of CC3007 Machine Learning under the supervision of Mr. Yaodong Zheng at SEIG
 
 in this repository, I merely share the solutions to either assignments or labs, no more details supply
 
