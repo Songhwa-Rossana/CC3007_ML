@@ -1,6 +1,6 @@
 # CC3007 Machine Learning
 
-This repository contains lab reports and programming assignments completed for the **CC3007 Machine Learning** course at SEIG (School of Electronics and Information Engineering), supervised by **Mr. Yaodong ZHENG**.
+This repository contains lab reports and programming assignments completed for the **CC3007 Machine Learning** course at SEIG, supervised by **Mr. Yaodong ZHENG**.
 
 ## 📚 About
 
